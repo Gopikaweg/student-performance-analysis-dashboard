@@ -1,20 +1,25 @@
-🍽️ Swiggy Restaurant Analysis Dashboard
+# 🎓 Student Performance Analysis Dashboard
 
-An interactive Power BI dashboard developed to analyze Swiggy restaurant data and uncover insights related to restaurant performance, ratings, pricing, cuisine preferences, and customer behavior.
+An interactive **Power BI dashboard** created to analyze student academic performance and identify patterns influencing students' results.
 
-📊 Key Analysis
-Analyzed restaurant ratings, pricing, and customer preferences.
-Identified popular cuisines and restaurant categories.
-Compared restaurant performance across different locations.
-Analyzed price ranges and their relationship with ratings.
-Used interactive filters and visualizations for detailed exploration.
-Created KPI cards and charts to present key business insights.
-🛠️ Tools & Technologies
-Power BI
-Excel
-Data Cleaning & Transformation
-Data Visualization
-Exploratory Data Analysis (EDA)
-🎯 Objective
+### 📊 Key Analysis
 
-The main objective of this project is to transform raw restaurant data into meaningful visual insights that can support business decisions, customer behavior analysis, and restaurant performance evaluation.
+* Analyzed student scores and overall academic performance.
+* Compared performance across subjects and student groups.
+* Examined factors such as attendance, study patterns, and other student attributes.
+* Identified high- and low-performing student segments.
+* Used KPIs, charts, and interactive filters to make the analysis easy to explore.
+* Presented key findings through an interactive and user-friendly dashboard.
+
+### 🛠️ Tools & Technologies
+
+* Power BI
+* Excel
+* Data Cleaning & Transformation
+* Data Analysis
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+
+### 🎯 Objective
+
+The objective of this project is to convert student-related data into actionable insights that can help understand **academic performance, identify performance patterns, and support data-driven educational decisions**.
